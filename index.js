@@ -1,4 +1,4 @@
-// import a library to help create a component
+// import libraries to help create a component
 import React from 'react';
 import { Text, AppRegistry } from 'react-native';
 
