@@ -1,7 +1,12 @@
 // import a library to help create a component
 import React from 'react';
-import ReactNative from 'react-native';
+import ReactNative, { Text } from 'react-native';
 
 // create a component
+const App = () => {
+    return (
+        <Text> Some content</Text>
+    );
+};
 
 // render it to the device
